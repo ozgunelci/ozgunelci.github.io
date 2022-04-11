@@ -12,16 +12,17 @@ redirect_from:
 I am a fifth-year PhD student in the Tepper School of Business at 
 Carnegie Mellon University.
 I work with 
+[John Hooker](http://public.tepper.cmu.edu/jnh/) on logic-based Benders decomposition 
+and fair allocation of resources.	
+I also work with 
 [Gerard Cornuejols](http://www.andrew.cmu.edu/user/gc0v/)
 on robust portfolio optimization.	
-I also work with 
-[John Hooker](http://public.tepper.cmu.edu/jnh/)
-on fair allocation of resources.	
+
 Previously, I studied at the Industrial Engineering Program of 
 Sabancı University. 
 My advisors were 
-Nilay Noyan and
-Kerem Bülbül.
+Nilay Noyan[https://www.linkedin.com/in/nilaynoyan] and
+Kerem Bülbül[https://www.linkedin.com/in/bulbulkerem].
 I was affiliated [Smart Mobility and Logistics Lab](http://sml.sabanciuniv.edu/), and
 I worked on chance-constrained optimization models for humanitarian 
 relief network design. 
