@@ -1,12 +1,14 @@
 ---
-permalink: /
+layout: archive
 title: "Teaching"
-excerpt: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /teaching/
+redirect_from:
+  - /resume
   - /teaching.html
 ---
+
+{% include base_path %}
 
 
 ## Locations of key files/directories
