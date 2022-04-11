@@ -8,17 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
-This is my teaching page.
+This is a complete list of the classes I have taught and assisted.
 
 ## Carnegie Mellon University
 
 * Instructor, Optimization for Business (undergraduate), Summer 2022.
 * TA, Optimization Methods in Finance (MBA, Instructor: G. Cornuejols), Spring 2022.
-* TA and recitation leader, Probability and Statistics (MBA, Instructor: J. Pena), Fall 2019,2020.
+* TA and recitation leader, Probability and Statistics (MBA, Instructor: J. Pena), Fall 2019, 2020.
 * TA and recitation leader, Optimization for Business (undergraduate, Instructor: A. Li), Fall 2019, 2020, 2021.
 * TA, Risk Analytics (MBA, Instructor: N. Secomandi), Fall 2019.
 * TA and recitation leader, Optimization for Business, (undergraduate, Instructor: B. Moseley), Spring 2019, 2020, 2022.
-* TA, Financial Optimization (Master of Science in Computational Finance, Instructor: J. Pe\~{n}a), Fall 2021.  
+* TA, Financial Optimization (Master of Science in Computational Finance, Instructor: J. Pena), Fall 2021.  
 
 ## Sabanci University
 
