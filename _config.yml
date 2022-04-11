@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ozgun Elci"
-  avatar           : "profile.png"
+  avatar           : "photo_profile_low.jpg"
   bio              : "PhD Student"
   location         : 
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ozgunelci/"
+  github           : "ozgunelci"
   google_plus      :
   keybase          :
   instagram        :
