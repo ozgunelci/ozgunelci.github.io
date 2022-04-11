@@ -10,15 +10,13 @@ author_profile: true
 
 This is my teaching page.
 
-## Locations of key files/directories
+## Carnegie Mellon University
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
+* Instructor, Optimization for Business, Summer 2022.
+* TA and recitation leader, Probability and Statistics (MBA, Instructor: J. Pena), Fall 2019-2020
+
+
+
+## Sabanci University
+
+* TA, Supply Chain Practice, Fall 2015.
