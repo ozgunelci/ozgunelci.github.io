@@ -17,12 +17,11 @@ and fair allocation of resources.
 I also work with 
 [Gerard Cornuejols](http://www.andrew.cmu.edu/user/gc0v/)
 on robust portfolio optimization.	
-
 Previously, I studied at the Industrial Engineering Program of 
 Sabancı University. 
 My advisors were 
-Nilay Noyan[https://www.linkedin.com/in/nilaynoyan] and
-Kerem Bülbül[https://www.linkedin.com/in/bulbulkerem].
+[Nilay Noyan](https://www.linkedin.com/in/nilaynoyan) and
+[Kerem Bülbül](https://www.linkedin.com/in/bulbulkerem).
 I was affiliated [Smart Mobility and Logistics Lab](http://sml.sabanciuniv.edu/), and
 I worked on chance-constrained optimization models for humanitarian 
 relief network design. 
