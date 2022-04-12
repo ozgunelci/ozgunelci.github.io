@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-This is a complete list of the classes I have taught and assisted.
+This is a complete list of the classes I have assisted with and taught.
 
 ## Carnegie Mellon University
 
