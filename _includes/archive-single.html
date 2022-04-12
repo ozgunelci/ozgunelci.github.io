@@ -61,5 +61,9 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 -->
+	{% if post.abstract%}
+	<p>{{ post.citation }}</p>
+	{% endif %}
+	{% endif %}
   </article>
 </div>
