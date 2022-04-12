@@ -1,5 +1,6 @@
 ---
 title: "Stochastic Planning and Scheduling with Logic-Based Benders Decomposition"
+collection: publications
 permalink: /publication/2022-04-11-logic-based-two-stage-scheduling-number-3
 excerpt: ''
 date: 2022-04-11
