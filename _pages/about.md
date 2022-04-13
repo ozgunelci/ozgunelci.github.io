@@ -22,7 +22,7 @@ Sabancı University.
 My advisors were 
 [Nilay Noyan](https://www.linkedin.com/in/nilaynoyan) and
 [Kerem Bülbül](https://www.linkedin.com/in/bulbulkerem).
-I was affiliated [Smart Mobility and Logistics Lab](http://sml.sabanciuniv.edu/), and
+I was affiliated with [Smart Mobility and Logistics Lab](http://sml.sabanciuniv.edu/), and
 I worked on chance-constrained optimization models for humanitarian 
 relief network design. 
 
