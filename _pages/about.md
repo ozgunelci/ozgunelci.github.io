@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I started my professional career as a [research scientist](https://www.amazon.science/) at [Amazon Inc](https://www.aboutamazon.com/).
+I work as a data scientist at [Starbucks](https://www.starbucks.com/).
 I have a PhD in Operations Research from Tepper School of Business at Carnegie Mellon University. 
 During my doctorate studies I worked with [John Hooker](http://public.tepper.cmu.edu/jnh/) on logic-based Benders decomposition and fair allocation of resources. 
 I also worked with [Gerard Cornuejols](http://www.andrew.cmu.edu/user/gc0v/) on robust portfolio optimization. 
