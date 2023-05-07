@@ -15,6 +15,6 @@ I also worked with [Gerard Cornuejols](http://www.andrew.cmu.edu/user/gc0v/) o
 
 Prior to that, I studied at Sabancı University where I received a master’s degree in Industrial Engineering. 
 My advisors were [Nilay Noyan](https://www.linkedin.com/in/nilaynoyan) and [Kerem Bülbül](https://www.linkedin.com/in/bulbulkerem). 
-I was affiliated with  [Smart Mobility and Logistics Lab](http://sml.sabanciuniv.edu/), 
+I was affiliated with [Smart Mobility and Logistics Lab](http://sml.sabanciuniv.edu/), 
 and I worked on chance-constrained optimization models for humanitarian relief network design.
 
